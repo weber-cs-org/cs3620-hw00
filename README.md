@@ -1,12 +1,12 @@
-# HW00 Initial Setup and Prime Numbers
+# Homework 01 Initial Setup and Prime Numbers
 
-### <First Name - Last Name> <TravisCI Badge Here>
+### <First Name - Last Name>
 
 ## Initial Setup
 * Install `git` on your development box.
     * OSX example: `brew install git`
-* Install `php71` on your development box.
-    * OSX example: `brew install php71 php71-http php71-pdo-lib php71-tidy php71-timezonedb`
+* Install `php8` on your development box.
+    * OSX example: `brew install php`
 * Install `composer` dependency manager on your development box.
     * OSX example: `brew install composer`
 * Run `composer install`
