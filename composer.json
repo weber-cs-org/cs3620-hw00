@@ -26,7 +26,8 @@
         "clean": [
             "rm -f composer.lock",
             "rm -f junit.xml",
-            "rm -fr vendor/"
+            "rm -fr vendor/",
+            "rm -fr .phpunit.result.cache"
         ],
         "fix": "vendor/bin/phpcbf --standard=PSR2 src tests",
         "push": [
